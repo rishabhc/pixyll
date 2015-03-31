@@ -1,19 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am a student of Indian Institute of Technology, Roorkee currently pursuing my Bachelor of Technology in Electronics and Communication. 
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+You will find me either developing web applications or fighting for equal human rights whenever I am not busy with my academics. I am a member of the software development section of, [SDSLabs](https://sdslabs.co/) and an editor of the official technical magazine, [Geek Gazette](http://gg.ieeeiitr.com/) of my college. Apart from hearing the words 'oppresive society' and 'I want pizza' from me at random instances of time, you can see me either spending my time on [Github](https://github.com/rishabhc) or [Tumblr](http://rishabhc.tumblr.com/). 
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+I am also a web security enthusiast and from this moment on a blogger maybe?   
